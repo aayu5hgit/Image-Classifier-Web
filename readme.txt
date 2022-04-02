@@ -21,21 +21,6 @@ Icons:
 
 Stock Photos and Graphics:
  - Unsplash.com (https://unsplash.com/)
- - Relate UI Kit (https://www.invisionapp.com/relate)
- 
-Javascript Files:
-
- - JQuery (http://jquery.com/)
- - Modernizr (http://modernizr.com/)
- - Waypoints (http://imakewebthings.com/jquery-waypoints/)
- - jQuery Placeholder (https://github.com/mathiasbynens/jquery-placeholder)
- - FitVids (http://fitvidsjs.com/)
- - pace js (http://github.hubspot.com/pace/)
- - Masonry (http://masonry.desandro.com/)
- - ajaxChimp (https://github.com/scdoshi/jquery-ajaxchimp)
- - animate on scroll (https://michalsnik.github.io/aos/)
- - parallax.js (http://pixelcog.github.io/parallax.js/)
- - Owl Carousel (https://owlcarousel2.github.io/OwlCarousel2/)
 
 
 
